@@ -1,2 +1,5 @@
 # ignore compiled jave programs
 *.class
+
+# ignore vim swap file
+*.swp
